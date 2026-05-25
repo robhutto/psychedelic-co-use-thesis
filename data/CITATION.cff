@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference these materials, please cite them as below."
+authors:
+  - family-names: Hutto
+    given-names: Robert
+title: "Interpersonal Functioning and Shared Psychedelic Experiences: A Mixed Methods Investigation of Psychedelic Co-use"
+type: dataset
+year: 2026
+institution:
+  name: "Brooklyn College – City University of New York"
+keywords:
+  - psychedelics
+  - romantic relationships
+  - interpersonal closeness
+  - Investment Model
+  - mixed methods
+  - co-use
+license: MIT
+doi: # to be added after Zenodo release

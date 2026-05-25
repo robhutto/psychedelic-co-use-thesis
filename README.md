@@ -73,7 +73,7 @@ The full thesis document is available in `docs/`.
 
 ## Citation
 
-*To be added upon Zenodo DOI generation.*
+10.5281/zenodo.20386327
 
 ---
 

@@ -1,0 +1,6 @@
+Data
+Raw data are not included in this repository.
+The survey collected demographic and relationship information from participants that could potentially be used to identify individuals. Data are restricted to protect participant privacy consistent with the informed consent procedures under which they were collected.
+What was collected: An anonymous cross-sectional survey administered via Google Forms, distributed on Reddit. Variables included psychedelic use history, romantic relationship status and co-use classification, Investment Model Scale Short Form subscales (satisfaction, commitment, investment size, quality of alternatives), Inclusion of Other in Self Scale (IOS) responses (perceived and desired closeness), a single-item sexual satisfaction measure, and an open-ended item about the relational effects of shared psychedelic experiences. Demographic variables included age, sex assigned at birth, gender identity, sexual orientation, race/ethnicity, education, socioeconomic status, country of residence, relationship length, and parental status.
+Sample: 118 adults currently in romantic relationships with at least one lifetime psychedelic experience (co-users n = 70; discordant users n = 48).
+Researchers interested in accessing the data for replication or secondary analysis may contact the author to discuss availability.

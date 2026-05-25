@@ -67,13 +67,13 @@ Raw data are not required to inspect the code structure; the script includes inl
 
 ## Thesis
 
-The full thesis document is available in `docs/`.
+The full thesis document will be made available in `docs/` when ready for public access.
 
 ---
 
 ## Citation
 
-10.5281/zenodo.20386327
+Hutto, R. (2026). *Interpersonal Functioning and Shared Psychedelic Experiences: A Mixed Methods Investigation of Psychedelic Co-use* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20386327
 
 ---
 
